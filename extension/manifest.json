@@ -1,0 +1,33 @@
+{
+    "manifest_version": 3,
+    "name": "ChatGPT Safe Surf",
+    "version": "1.0.0",
+    "description": "Use ChatGPT safely by replacing your sensitive data by fake ones, then revert it to get the real answer!",
+    "icons": {
+        "128": "images/icon128.png"
+      },
+    "host_permissions": ["https://anonymiser.app/*", "https://chat.openai.com/*"],
+    "permissions": [
+        "activeTab",
+        "tabs"
+    ],    
+    "action": {
+        "default_icon": {
+          "16": "images/icon16.png",
+          "48": "images/icon48.png",
+          "128": "images/icon128.png"
+        },
+        "default_title": "ChatGPT Safe Surf",
+        "default_popup": "popup.html"
+      },
+      
+    "background": {
+        "service_worker": "background.js"
+    },
+    "content_scripts": [
+        {
+            "matches": ["http://*/*", "https://*/*"],
+            "js": ["content.js"]
+        }
+    ]
+}
