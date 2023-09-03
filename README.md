@@ -45,8 +45,8 @@ This project is licensed under the Apache License 2.0. See [LICENSE](LICENSE) fo
 
 We're always excited to connect with our users. Got a suggestion? Found a bug? Want to chat about the weather? Reach out!
 
-- **Twitter**: @[YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- **Email**: youremail@example.com
+- **Twitter**: @[YourTwitterHandle]([https://twitter.com/YourTwitterHandle](https://twitter.com/GuillaumeGay_))
+- **Email**: guillaume.gay@protonmail.com
 
 ## Thank You! 🌟
 
