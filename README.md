@@ -1,6 +1,6 @@
 # gpt-anonymizer: ChatGPT Safe Surf
 
-![ChatGPT Safe Surf Logo](README files/icon.png)
+![ChatGPT Safe Surf Logo]("README files/icon.png")
 
 ChatGPT Safe Surf is a Chrome web extension designed to keep your ChatGPT prompts private. It replaces identifiable entities in your text with fake ones, ensuring your sensitive information remains secure. And don't worry about the response making sense — we'll revert those fake entities to the original ones in ChatGPT's replies. Let's keep your browsing safe and meaningful!
 
