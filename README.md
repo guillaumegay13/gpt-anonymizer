@@ -39,7 +39,7 @@ Love **ChatGPT Safe Surf**? We'd love your contributions! Whether it's reporting
 
 ## License 📜
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
+This project is licensed under the Apache License 2.0. See [LICENSE](LICENSE) for more details.
 
 ## Connect & Feedback 💌
 
