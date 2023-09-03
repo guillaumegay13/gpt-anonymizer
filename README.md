@@ -43,7 +43,7 @@ This project is licensed under the Apache License 2.0. See [LICENSE](LICENSE) fo
 
 We're always excited to connect with our users. Got a suggestion? Found a bug? Want to chat about the weather? Reach out!
 
-- **Twitter**: @[@GuillaumeGay_](https://twitter.com/GuillaumeGay_)
+- **Twitter**: @[GuillaumeGay_](https://twitter.com/GuillaumeGay_)
 - **Email**: guillaume.gay@protonmail.com
 
 ## Thank You! 🌟
