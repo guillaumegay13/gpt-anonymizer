@@ -11,7 +11,16 @@ ChatGPT Safe Surf is a Chrome web extension designed to keep your ChatGPT prompt
 
 ### 1. Installation
 
-Download and install **ChatGPT Safe Surf** from the Chrome Web Store. (Include link once available)
+Download and install **ChatGPT Safe Surf** from the Chrome Web Store. (Available soon)
+
+To upload the extension manually :
+
+1. Go to the Extensions page by entering chrome://extensions in a new tab.
+   Alternatively, click on the Extensions menu puzzle button and select Manage Extensions at the bottom of the menu.
+
+2. Enable Developer Mode by clicking the toggle switch next to Developer mode.
+
+3. Click the Load unpacked button and select the extension directory downloaded locally.
 
 ### 2. API Subscription
 
